@@ -1,0 +1,26 @@
+{
+  "name": "Raminagrochess",
+  "version": "1.0.0",
+  "description": "Bot destiné à faire des parties d'echecs sur serveur",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valdorion/Raminagrochess.git"
+  },
+  "keywords": [
+    "Bot",
+    "chess"
+  ],
+  "author": "Valdorion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valdorion/Raminagrochess/issues"
+  },
+  "homepage": "https://github.com/Valdorion/Raminagrochess#readme",
+  "dependencies": {
+    "discord.js": "^14.6.0"
+  }
+}

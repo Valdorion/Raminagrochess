@@ -1,0 +1,90 @@
+16/12/2022 13:58:48;INFO;root;---- Importation ----;Lancement d'Epsius
+16/12/2022 13:58:48;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+16/12/2022 13:58:48;ERROR;root;unhandledRejection : TypeError: Cannot read properties of undefined (reading 'length')
+;{}
+16/12/2022 13:58:48;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+16/12/2022 13:58:48;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+16/12/2022 13:58:48;INFO;root;Chess EPSI Bot est en ligne !;Lancement d'Epsius fini
+16/12/2022 14:2:12;INFO;root;---- Importation ----;Lancement d'Epsius
+16/12/2022 14:2:12;SUCCESS;root;Importation [CMD]: add-chess-party;{"name":"add-chess-party","description":"Créer une partie d'échec","options":[{"type":3,"name":"nom","description":"Le nom de la partie","required":true},{"type":4,"name":"adversaire","description":"Le tag de l'adversaire","required":true}]}
+16/12/2022 14:2:12;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+16/12/2022 14:2:12;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+16/12/2022 14:2:12;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+16/12/2022 14:2:13;INFO;root;Chess EPSI Bot est en ligne !;Lancement d'Epsius fini
+16/12/2022 14:3:14;ERROR;root;uncaughtException : ReferenceError: permission is not defined;"uncaughtException"
+16/12/2022 14:4:4;INFO;root;---- Importation ----;Lancement d'Epsius
+16/12/2022 14:4:4;SUCCESS;root;Importation [CMD]: add-chess-party;{"name":"add-chess-party","description":"Créer une partie d'échec","options":[{"type":3,"name":"nom","description":"Le nom de la partie","required":true}]}
+16/12/2022 14:4:4;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+16/12/2022 14:4:4;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+16/12/2022 14:4:4;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+16/12/2022 14:4:4;INFO;root;Chess EPSI Bot est en ligne !;Lancement d'Epsius fini
+16/12/2022 14:4:16;ERROR;root;uncaughtException : ReferenceError: permission is not defined;"uncaughtException"
+16/12/2022 14:7:12;ERROR;root;uncaughtException : ReferenceError: permission is not defined;"uncaughtException"
+16/12/2022 14:7:50;INFO;root;---- Importation ----;Lancement d'Epsius
+16/12/2022 14:7:51;SUCCESS;root;Importation [CMD]: add-chess-party;{"name":"add-chess-party","description":"Créer une partie d'échec","options":[{"type":3,"name":"nom","description":"Le nom de la partie","required":true,"default_member_permissions":0}]}
+16/12/2022 14:7:51;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+16/12/2022 14:7:51;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+16/12/2022 14:7:51;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+16/12/2022 14:7:51;INFO;root;Chess EPSI Bot est en ligne !;Lancement d'Epsius fini
+16/12/2022 14:8:1;ERROR;root;uncaughtException : ReferenceError: permission is not defined;"uncaughtException"
+16/12/2022 14:8:17;INFO;root;---- Importation ----;Lancement d'Epsius
+16/12/2022 14:8:17;SUCCESS;root;Importation [CMD]: add-chess-party;{"name":"add-chess-party","description":"Créer une partie d'échec","options":[{"type":3,"name":"nom","description":"Le nom de la partie","required":true,"default_member_permissions":0}]}
+16/12/2022 14:8:17;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+16/12/2022 14:8:17;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+16/12/2022 14:8:17;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+16/12/2022 14:8:18;INFO;root;Chess EPSI Bot est en ligne !;Lancement d'Epsius fini
+16/12/2022 14:8:36;INFO;root;---- Importation ----;Lancement d'Epsius
+16/12/2022 14:8:36;SUCCESS;root;Importation [CMD]: add-chess-party;{"name":"add-chess-party","description":"Créer une partie d'échec","options":[{"type":3,"name":"nom","description":"Le nom de la partie","required":true,"default_member_permissions":1}]}
+16/12/2022 14:8:36;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+16/12/2022 14:8:36;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+16/12/2022 14:8:36;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+16/12/2022 14:8:36;INFO;root;Chess EPSI Bot est en ligne !;Lancement d'Epsius fini
+16/12/2022 14:8:44;ERROR;root;uncaughtException : ReferenceError: permission is not defined;"uncaughtException"
+16/12/2022 14:13:41;ERROR;root;uncaughtException : ReferenceError: permission is not defined;"uncaughtException"
+16/12/2022 14:14:30;INFO;root;---- Importation ----;Lancement d'Epsius
+16/12/2022 14:14:30;SUCCESS;root;Importation [CMD]: add-chess-party;{"name":"add-chess-party","description":"Créer une partie d'échec","options":[{"type":3,"name":"nom","description":"Le nom de la partie","required":true}]}
+16/12/2022 14:14:30;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+16/12/2022 14:14:30;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+16/12/2022 14:14:30;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+16/12/2022 14:14:31;INFO;root;Chess EPSI Bot est en ligne !;Lancement d'Epsius fini
+16/12/2022 14:14:36;ERROR;root;uncaughtException : ReferenceError: permission is not defined;"uncaughtException"
+16/12/2022 14:20:26;INFO;root;---- Importation ----;Lancement d'Epsius
+16/12/2022 14:20:26;SUCCESS;root;Importation [CMD]: add_chess_party;{"name":"add_chess_party","description":"Créer une partie d'échec","options":[{"type":3,"name":"nom","description":"Le nom de la partie","required":true}]}
+16/12/2022 14:20:26;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+16/12/2022 14:20:26;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+16/12/2022 14:20:26;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+16/12/2022 14:20:27;INFO;root;Chess EPSI Bot est en ligne !;Lancement d'Epsius fini
+16/12/2022 14:20:37;ERROR;root;uncaughtException : ReferenceError: permission is not defined;"uncaughtException"
+16/12/2022 14:23:54;ERROR;root;uncaughtException : ReferenceError: permission is not defined;"uncaughtException"
+16/12/2022 14:27:54;INFO;root;---- Importation ----;Lancement d'Epsius
+16/12/2022 14:27:54;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+16/12/2022 14:27:54;SUCCESS;root;Importation [CMD]: add_chess_party;{"name":"add_chess_party","description":"Créer une partie d'échec","options":[{"type":3,"name":"nom","description":"Le nom de la partie","required":true}]}
+16/12/2022 14:27:54;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+16/12/2022 14:27:54;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+16/12/2022 14:27:55;INFO;root;Chess EPSI Bot est en ligne !;Lancement d'Epsius fini
+16/12/2022 14:28:1;SUCCESS;376399185252974592;Le channel final a été créé avec succès !;{"type":2,"id":"1053302477719601212","applicationId":"1045362800295432309","channelId":"1045326682199961654","guildId":"1045326682199961651","user":"376399185252974592","member":"376399185252974592","version":1,"appPermissions":"4398046511103n","memberPermissions":"4398046511103n","locale":"fr","guildLocale":"en-US","commandId":"1053300574906495107","commandName":"add_chess_party","commandType":1,"commandGuildId":"1045326682199961651","deferred":false,"replied":false,"ephemeral":null,"webhook":{"id":"1045362800295432309"},"options":{}}
+16/12/2022 14:30:6;SUCCESS;376399185252974592;Le channel final a été créé avec succès !;{"type":2,"id":"1053303000883527690","applicationId":"1045362800295432309","channelId":"1045326682199961654","guildId":"1045326682199961651","user":"376399185252974592","member":"376399185252974592","version":1,"appPermissions":"4398046511103n","memberPermissions":"4398046511103n","locale":"fr","guildLocale":"en-US","commandId":"1053300574906495107","commandName":"add_chess_party","commandType":1,"commandGuildId":"1045326682199961651","deferred":false,"replied":false,"ephemeral":null,"webhook":{"id":"1045362800295432309"},"options":{}}
+16/12/2022 17:29:54;SUCCESS;376399185252974592;Le channel finale a été créé avec succès !;{"type":2,"id":"1053348250876387338","applicationId":"1045362800295432309","channelId":"1045326682199961654","guildId":"1045326682199961651","user":"376399185252974592","member":"376399185252974592","version":1,"appPermissions":"4398046511103n","memberPermissions":"4398046511103n","locale":"fr","guildLocale":"en-US","commandId":"1053300574906495107","commandName":"add_chess_party","commandType":1,"commandGuildId":"1045326682199961651","deferred":false,"replied":false,"ephemeral":null,"webhook":{"id":"1045362800295432309"},"options":{}}
+17/12/2022 15:10:55;INFO;root;---- Importation ----;Lancement d'Epsius
+17/12/2022 15:10:55;ERROR;root;unhandledRejection : Error: getaddrinfo ENOTFOUND discord.com
+;{}
+17/12/2022 15:10:55;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+17/12/2022 15:10:55;ERROR;root;unhandledRejection : SyntaxError: await is only valid in async functions and the top level bodies of modules
+;{}
+17/12/2022 15:10:55;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+17/12/2022 15:10:55;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+17/12/2022 15:11:24;INFO;root;---- Importation ----;Lancement d'Epsius
+17/12/2022 15:11:24;SUCCESS;root;Importation [CMD]: add_chess_party;{"name":"add_chess_party","description":"Créer une partie d'échec","options":[{"type":3,"name":"nom","description":"Le nom de la partie","required":true},{"type":6,"name":"adversaire","description":"Compte de l'adversaire","required":true}]}
+17/12/2022 15:11:24;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+17/12/2022 15:11:24;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+17/12/2022 15:11:24;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+17/12/2022 15:11:35;ERROR;root;unhandledRejection : Error: getaddrinfo ENOTFOUND discord.com
+;{}
+17/12/2022 15:17:7;INFO;root;---- Importation ----;Lancement d'Epsius
+17/12/2022 15:17:7;SUCCESS;root;Importation [CMD]: add_chess_party;{"name":"add_chess_party","description":"Créer une partie d'échec","options":[{"type":3,"name":"nom","description":"Le nom de la partie","required":true},{"type":6,"name":"adversaire","description":"Compte de l'adversaire","required":true}]}
+17/12/2022 15:17:7;SUCCESS;root;Importation [CMD]: ping;{"name":"ping","description":"Information sur la latence de l'API et du BOT."}
+17/12/2022 15:17:7;SUCCESS;root;Importation [EVENT]: interactionCreate;{"name":"interactionCreate","once":false}
+17/12/2022 15:17:7;SUCCESS;root;Importation [EVENT]: ready;{"name":"ready","once":true}
+17/12/2022 15:17:9;INFO;root;Chess EPSI Bot est en ligne !;Lancement d'Epsius fini
+17/12/2022 15:17:35;ERROR;root;unhandledRejection : TypeError [InvalidType]: Supplied parameter is not a User nor a Role.
+;{}

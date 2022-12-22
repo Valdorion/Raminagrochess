@@ -1,26 +1,13 @@
 {
   "name": "Raminagrochess",
-  "version": "1.0.0",
-  "description": "Bot destiné à faire des parties d'echecs sur serveur",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Valdorion/Raminagrochess.git"
-  },
-  "keywords": [
-    "Bot",
-    "chess"
-  ],
-  "author": "Valdorion",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Valdorion/Raminagrochess/issues"
-  },
-  "homepage": "https://github.com/Valdorion/Raminagrochess#readme",
+  "version": "0.0.1",
+  "description": "Bot Discord pour les échecs du serveur SN2 22-23 WIPS Nantes.",
+  "main": "app.js",
+  "repository": "https://github.com/Valdorion/Raminagrochess",
+  "author": "Valdorion <valdorion.kalagia@gmail.com>",
+  "license": "MIT",
   "dependencies": {
-    "discord.js": "^14.6.0"
+    "discord.js": "^14.7.1",
+    "glob": "^8.0.3"
   }
 }
